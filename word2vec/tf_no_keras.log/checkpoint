@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/luban/lvwei/nlp-learning/word2vec/tf_no_keras.log/model.ckpt"
+all_model_checkpoint_paths: "/home/luban/lvwei/nlp-learning/word2vec/tf_no_keras.log/model.ckpt"
